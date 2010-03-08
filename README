@@ -1,0 +1,8 @@
+
+The purpose of this application is to read output lines from <stdin> (such as
+tailing a log or an application's output) and then generating a graph of the 
+values.  The values extracted are matched with a regex, using '-r'; or using 
+pre-defined values, using '-p'.
+
+Run 'pipegraph -h' to see commandline options.
+
